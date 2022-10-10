@@ -24,4 +24,4 @@ We have several ongoing developer quests that you can participate in! Please sel
 
 ## Suggestions for a New Quest
 
-Do you have any questions? Suggestions for another quest (we're always considering new ones)? Reach out on our [Discord](https://discord.com/invite/b6ZVxSZ9Hn).
+Do you have any questions? Suggestions for another quest (we're always considering new ones)? Reach out on our.. [Discord](https://discord.com/invite/b6ZVxSZ9Hn).
